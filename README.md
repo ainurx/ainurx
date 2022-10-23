@@ -1,5 +1,5 @@
 - 👋 Hi, Ainur here
-- 👀 I’m interested in Software development
+- 👀 Interested in software development
 - 💻 Currently working as a junior software developer at Monstyr PTE LTD
 - ⚔ Programming language / Framework: Javascript, Express JS, React JS & React Native
 - 💾Database : MySQL & PostgeSQL
