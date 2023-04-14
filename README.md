@@ -1,7 +1,7 @@
 - 👋 Hi, Ainur here
 - 👀 Interested in software development
 - 💻 Currently working as a junior software developer at Monstyr PTE LTD
-- ⚔ Programming language / Framework : Golang, Python, Javascript, Typescript, Express JS, React JS & React Native
+- ⚔ Programming language / Framework : C#, Golang, Python, Javascript, Typescript, Express JS, React JS & React Native
 - 💾 Database : MySQL & PostgreSQL
 <!---
 ainurx/ainurx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
