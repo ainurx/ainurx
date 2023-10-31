@@ -1,4 +1,4 @@
-- Web developer with Javascript tech stack
+- Web developer
 - Developing skill and experience in IT infra as well
 <!---
 ainurx/ainurx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
