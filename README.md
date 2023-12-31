@@ -1,4 +1,4 @@
-- Full Stack Developer [Golang, Python, Javascript]
+- Full Stack Developer [Go, Python, Javascript]
 - Developing skill and experience in IT infra as well 👀
 <!---
 ainurx/ainurx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
